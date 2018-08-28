@@ -1,2 +1,2 @@
-### matte
+### Matte
 Repository for exploratory analysis
